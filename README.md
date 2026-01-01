@@ -40,14 +40,16 @@ I build scalable, responsive web applications and love sharing knowledge.
 </p>
 
 ---
+## 🤖 AI Automation With No-Code Tools
 
-## 📚 Tutorials & Focus Areas
+I’m actively exploring **AI-powered automation** and **agentic workflows** to build smarter, more efficient web solutions.
 
-- React.js
-- Node.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
+- 🔁 Workflow automation with **n8n** and **Make (Integromat)**
+- 🎙️ Voice-driven automation using **Vapi** and no-code voice flows
+- 💬 Building AI chatbots with **voice flows**, integrated with **Airtable** for data and workflow management
+- 🧠 Integrating AI agents with web applications for real-world automation
+
+
 
 ---
 
