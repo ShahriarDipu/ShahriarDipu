@@ -9,11 +9,20 @@ I build scalable, responsive web applications and love sharing knowledge.
 ☕ **Connect with me!**
 
 <p>
-<a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://youtube.com/">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/shahriar-ahmed-dipu">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:shahriardipuofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://x.com/Shahriar__Dipu">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
 </p>
+
 
 ❤️ I enjoy programming and sharing knowledge  
 💻 Most used line of code: `console.log("hello world")`  
@@ -44,10 +53,10 @@ I build scalable, responsive web applications and love sharing knowledge.
 
 I’m actively exploring **AI-powered automation** and **agentic workflows** to build smarter, more efficient web solutions.
 
-- 🔁 Workflow automation with **n8n** and **Make (Integromat)**
-- 🎙️ Voice-driven automation using **Vapi** and no-code voice flows
-- 💬 Building AI chatbots with **voice flows**, integrated with **Airtable** for data and workflow management
-- 🧠 Integrating AI agents with web applications for real-world automation
+🔁 Workflow automation with **N8N** and **Make (Integromat)**
+🎙️ Voice-driven automation using **Vapi** and no-code voice flows
+💬 Building AI chatbots with **voice flows**, integrated with **Airtable** for data and workflow management
+🧠 Integrating AI agents with web applications for real-world automation
 
 
 
