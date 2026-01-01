@@ -12,12 +12,15 @@ I build scalable, responsive web applications and love sharing knowledge.
 <a href="https://youtube.com/">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
+  
 <a href="https://www.linkedin.com/in/shahriar-ahmed-dipu">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 <a href="mailto:shahriardipuofficial@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 <a href="https://x.com/Shahriar__Dipu">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
@@ -54,7 +57,7 @@ I build scalable, responsive web applications and love sharing knowledge.
 I’m actively exploring **AI-powered automation** and **agentic workflows** to build smarter, more efficient web solutions.
 
 🔁 Workflow automation with **N8N** and **Make (Integromat)**
-🎙️ Voice-driven automation using **Vapi** and no-code voice flows
+🎙️ Voice-driven automation using **Vapi** and **Retell AI**
 💬 Building AI chatbots with **voice flows**, integrated with **Airtable** for data and workflow management
 🧠 Integrating AI agents with web applications for real-world automation
 
@@ -71,10 +74,3 @@ I’m actively exploring **AI-powered automation** and **agentic workflows** to 
 | Dashboard | Admin dashboard with charts | 🚀 |
 
 ---
-
-## 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react">
-</p>
