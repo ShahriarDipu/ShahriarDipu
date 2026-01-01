@@ -18,6 +18,9 @@ I build scalable, responsive web applications and love sharing knowledge.
 ❤️ I enjoy programming and sharing knowledge  
 💻 Most used line of code: `console.log("hello world")`  
 🤝 Open to collaboration on MERN projects  
+🤖 Curious about **Agentic AI** and its role in building intelligent, future-ready web applications.
+
+
 
 ---
 
@@ -25,13 +28,14 @@ I build scalable, responsive web applications and love sharing knowledge.
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript">
 <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
 <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs">
 <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs">
 <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express">
 <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb">
 <img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss">
+<img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap">
+<img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase">
 <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git">
 </p>
 
