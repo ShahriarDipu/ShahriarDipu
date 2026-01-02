@@ -68,9 +68,10 @@ I’m actively exploring **AI-powered automation** and **agentic workflows** to 
 ## 🚀 My Projects & Ventures
 
 | Project | Description | Status |
-|-------|------------|--------|
-| Portfolio Website | Personal developer portfolio | 🚧 |
-| MERN App | Full Stack MERN Application | ✅ |
-| Dashboard | Admin dashboard with charts | 🚀 |
+|--------|------------|--------|
+| [Portfolio Website](https://your-portfolio-link.com) | Personal portfolio showcasing my work | 🚧 |
+| [BloodLink](https://bloodlink-live-site.com) | MERN-based blood donation management system | ✅ |
+| [TradeHub](https://tradehub-live-site.com) | Global import & export marketplace | 🚀 |
+
 
 ---
