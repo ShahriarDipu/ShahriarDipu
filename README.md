@@ -27,10 +27,10 @@ I'm **Shahriar Ahmed Dipu**, a **Web Developer** from Canada 🇨🇦.
 </p>
 
 
-❤️ I enjoy programming and building SaaS solutions to solve real-world problems.
-💻 Most used line of code: `console.log("hello world")`  
-🤝 Open to collaboration on MERN projects  
-🤖 Curious about **Agentic AI** and its role in building intelligent,web applications.
+❤️ I enjoy programming and building SaaS solutions to solve real-world problems.  
+💻 Most used line of code: `console.log("hello world")`     
+🤝 Open to collaboration on MERN projects     
+🤖 Curious about **Agentic AI** and its role in building intelligent,web applications.  
 
 
 
