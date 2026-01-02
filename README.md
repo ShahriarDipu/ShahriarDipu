@@ -4,7 +4,7 @@
 ## Hi there 👋
 
 I'm **Shahriar Ahmed Dipu**, a **Web Developer** from Canada 🇨🇦.  
-I build scalable, responsive web applications and love sharing knowledge.
+
 
 ☕ **Connect with me!**
 
@@ -27,10 +27,10 @@ I build scalable, responsive web applications and love sharing knowledge.
 </p>
 
 
-❤️ I enjoy programming and sharing knowledge  
+❤️ I enjoy programming and building SaaS solutions to solve real-world problems.
 💻 Most used line of code: `console.log("hello world")`  
 🤝 Open to collaboration on MERN projects  
-🤖 Curious about **Agentic AI** and its role in building intelligent, future-ready web applications.
+🤖 Curious about **Agentic AI** and its role in building intelligent,web applications.
 
 
 
@@ -56,10 +56,10 @@ I build scalable, responsive web applications and love sharing knowledge.
 
 I’m actively exploring **AI-powered automation** and **agentic workflows** to build smarter, more efficient web solutions.
 
-🔁 Workflow automation with **N8N** and **Make (Integromat)**
-🎙️ Voice-driven automation using **Vapi** and **Retell AI**
-💬 Building AI chatbots with **voice flows**, integrated with **Airtable** for data and workflow management
-🧠 Integrating AI agents with web applications for real-world automation
+- 🔁 Workflow automation with **n8n** and **Make (Integromat)**
+- 🎙️ Voice-driven automation using **Vapi** and **Retell AI**
+- 💬 Building AI chatbots with **voice flows**, integrated with **Airtable**
+- 🧠 Integrating AI agents with web applications for real-world automation
 
 
 
