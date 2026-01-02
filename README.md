@@ -56,10 +56,10 @@ I'm **Shahriar Ahmed Dipu**, a **Web Developer** from Canada 🇨🇦.
 
 I’m actively exploring **AI-powered automation** and **agentic workflows** to build smarter, more efficient web solutions.
 
-- 🔁 Workflow automation with **n8n** and **Make (Integromat)**
-- 🎙️ Voice-driven automation using **Vapi** and **Retell AI**
-- 💬 Building AI chatbots with **voice flows**, integrated with **Airtable**
-- 🧠 Integrating AI agents with web applications for real-world automation
+🔁 Workflow automation with **n8n** and **Make (Integromat)**  
+🎙️ Voice-driven automation using **Vapi** and **Retell AI**    
+💬 Building AI chatbots with **voice flows**, integrated with **Airtable**    
+🧠 Integrating AI agents with web applications for real-world automation
 
 
 
